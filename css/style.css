@@ -2,7 +2,14 @@ h3{
     font-family:arial; 
     color:#FF0000;
 }
-
+h1{
+    font-family:Comic Sans MS;
+    color:#84358b;
+}
+h4{
+    font-family:Comic Sans MS;
+    color:#ddda18;
+}
 #output{
     font-family:arial; 
     color:#0000ff;
